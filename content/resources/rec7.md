@@ -2,8 +2,13 @@
 content_type: resource
 description: Questions on previous assignment, Marketable Securities, Long-Term Debt
   (Bonds), Terminology, Balance Sheet Equation Effects, Sample Problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-515-financial-accounting-fall-2003/97bdc07449fe4c1389bacef36cf66619_rec7.pdf
+file: /media/courses/15-515-financial-accounting-fall-2003/97bdc07449fe4c1389bacef36cf66619_rec7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec7.pdf
 uid: 97bdc074-49fe-4c13-89ba-cef36cf66619

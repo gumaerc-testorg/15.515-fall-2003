@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ce4836d8-5e6e-a35e-652f-fa42dbbbbb74
 ---
@@ -7,12 +10,12 @@ uid: ce4836d8-5e6e-a35e-652f-fa42dbbbbb74
 Objectives
 ----------
 
-This section of the session road map below specifies the learning objectives you should achieve through (a) the assigned readings and homework, (b) the class discussion or lecture, or (c) the weekly T.A. session (if needed). Periodically, it also summarizes key concepts. You and your group can gauge your progress by assessing the extent to which you have met these objectives and understand the concepts.<
+This section of the session road map below specifies the learning objectives you should achieve through (a) the assigned readings and homework, (b) the class discussion or lecture, or (c) the weekly T.A. session (if needed). Periodically, it also summarizes key concepts. You and your group can gauge your progress by assessing the extent to which you have met these objectives and understand the concepts.\<
 
 Class Preparation Questions
 ---------------------------
 
-As these problems are related to the class discussion and often will be used as the basis of class discussion, they should receive your utmost attention. You may find it valuable to discuss these with your group members before class. Some questions refer to the Intel 2002 Annual Report, which is available for download from the Intel Web site. ([PDF](https://www.intel.cn/content/dam/doc/report/history-2002-annual-report.pdf))#
+As these problems are related to the class discussion and often will be used as the basis of class discussion, they should receive your utmost attention. You may find it valuable to discuss these with your group members before class. Some questions refer to the Intel 2002 Annual Report, which is available for download from the Intel Web site. ([PDF](https://www.intel.cn/content/dam/doc/report/history-2002-annual-report.pdf)){{< sup "#" >}}
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Long-term Debt and Bonds.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-515-financial-accounting-fall-2003/298cd5618a2b90d02d8159e1dfd2bfb7_lec13.pdf
+file: /media/courses/15-515-financial-accounting-fall-2003/298cd5618a2b90d02d8159e1dfd2bfb7_lec13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec13.pdf
 uid: 298cd561-8a2b-90d0-2d81-59e1dfd2bfb7

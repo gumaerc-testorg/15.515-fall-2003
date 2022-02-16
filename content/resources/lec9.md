@@ -2,8 +2,13 @@
 content_type: resource
 description: Purpose of SCF and difference between the direct and indirect methods
   for the Operations section.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-515-financial-accounting-fall-2003/a3c6e7f008245e6fa3628111a221aa61_lec9.pdf
+file: /media/courses/15-515-financial-accounting-fall-2003/a3c6e7f008245e6fa3628111a221aa61_lec9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec9.pdf
 uid: a3c6e7f0-0824-5e6f-a362-8111a221aa61

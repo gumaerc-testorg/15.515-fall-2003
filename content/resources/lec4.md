@@ -5,8 +5,13 @@ description: 'Revenue Recognition,
   Accounts Receivable, and
 
   Deferred Revenue.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-515-financial-accounting-fall-2003/485b11fcec455af0584368c6ff5e83e8_lec4.pdf
+file: /media/courses/15-515-financial-accounting-fall-2003/485b11fcec455af0584368c6ff5e83e8_lec4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec4.pdf
 uid: 485b11fc-ec45-5af0-5843-68c6ff5e83e8
