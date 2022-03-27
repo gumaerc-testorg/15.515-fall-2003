@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ce4836d8-5e6e-a35e-652f-fa42dbbbbb74
 resourcetype: Document
 title: lec14_first_national_bank.pdf
 uid: 1e533ea5-0ad6-4831-e993-912d3abce395

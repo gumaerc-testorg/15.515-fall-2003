@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: dad27418-c8d8-7492-a9d2-680fe13ca348
 resourcetype: Document
 title: rec5midterm_review.pdf
 uid: 3649947a-5c2d-8677-5d6b-eb76c885c7b8

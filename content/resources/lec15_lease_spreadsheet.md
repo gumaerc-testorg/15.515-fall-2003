@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ce4836d8-5e6e-a35e-652f-fa42dbbbbb74
 resourcetype: Other
 title: lec15_lease_spreadsheet.xls
 uid: cd02dc9b-a370-397a-5941-3596b42c5140

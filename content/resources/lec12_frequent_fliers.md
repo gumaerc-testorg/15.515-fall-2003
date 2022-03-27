@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ce4836d8-5e6e-a35e-652f-fa42dbbbbb74
 resourcetype: Document
 title: lec12_frequent_fliers.pdf
 uid: e0c1a3a7-0002-7e2d-c2a1-4ac7ae4e38f3
