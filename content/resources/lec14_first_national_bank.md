@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-515-financial-accounting-fall-2003/1e533ea50ad64831e993912d3abce395_lec14_first_national_bank.pdf
+file: /courses/15-515-financial-accounting-fall-2003/1e533ea50ad64831e993912d3abce395_lec14_first_national_bank.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

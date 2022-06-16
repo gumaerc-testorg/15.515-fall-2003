@@ -2,7 +2,7 @@
 content_type: resource
 description: An Exercise for Preparing the Statement of Cash Flows Using the Direct
   and Indirect Methods.
-file: /media/courses/15-515-financial-accounting-fall-2003/fe163c5f5ab187eb6624dbf6913493ab_lec9_xyz_company.pdf
+file: /courses/15-515-financial-accounting-fall-2003/fe163c5f5ab187eb6624dbf6913493ab_lec9_xyz_company.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lec9_xyz_company.pdf
 uid: fe163c5f-5ab1-87eb-6624-dbf6913493ab
 ---
+An Exercise for Preparing the Statement of Cash Flows Using the Direct and Indirect Methods.
+
