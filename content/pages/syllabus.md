@@ -1,24 +1,25 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1b8d6d97-e871-5047-4199-acb4141bfbdc
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 1 session / week, 1 hour / session
 
-Course Materials
-----------------
+## Course Materials
 
 Text: Pratt, J. _Financial Accounting in an Economic Context._ 5th ed. John Wiley & Sons, Inc. (Hereafter cited as Pratt)
 
 Supplement Material: [Intel Corporation 2001 Annual Report](https://www.intel.com/content/www/us/en/history/history-2001-annual-report.html) distributed in class.
 
-Case Pack: Includes supplemental readings and cases, available at campus copy center (hereafter cited to as CP).
+Case Pack: Includes supplemental readings and cases (hereafter cited to as CP). _Note: the Case Pack is not available online to OCW users, however, the readings are cited on the_ {{% resource_link 3e305c25-e9b9-a0d9-8759-71456449cd62 "Readings" %}} _page._
 
 Reserve Materials: People have different approaches to learning, and a text which is good for one person may not be the best for another. If you want to seek supplementary sources for the course material, or are interested in more advanced topics, we have placed the following books on reserve in the library:
 
@@ -26,102 +27,66 @@ Stickney, C., and R. Weil. _Financial Accounting: An Introduction to Concepts, M
 
 Kieso, D., and J. Weygandt. _Intermediate Accounting._ 10th ed. Wiley, 2001.
 
-T.A. Sessions
--------------
+## T.A. Sessions
 
 The T.A.s are important members of the teaching team and are committed to helping you reach the course objective. They are responsible for the help sessions and for grading most of the written assignments and exams.
 
 There will be weekly T.A. sessions that focus on the record keeping and reporting, computation, and search challenges. The T.A.s will also be available on a limited basis for individual and small-group tutoring.
 
-Office Visits
--------------
+## Office Visits
 
 If you have been attending class and help sessions but are still falling behind you are encouraged to visit us. These meetings will be much more productive if you come well prepared. Whenever possible try to write out your questions and, if possible, map them into the five course challenges. In addition, be familiar with the definitions and notation related to a topic even if you are having conceptual difficulties. Most importantly, don't tell us that you understand something when you are still perplexed. Please make appointments through our secretary.
 
-Grading Procedure
------------------
+## Grading Procedure
 
 Your grade will be based on the following weights:
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITY
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENT
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Contributions to Class Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Written Homework (8 Assignments)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Mid-term Examination
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Examination
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 45%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-The _first four [assignments]({{< baseurl >}}/pages/assignments) are to be done individually_ and are intended to help you learn and practice the mechanics of the course material. By this, we mean the work you turn in must be your own, as opposed to copied from another. This does not mean you have to do individual assignments in isolation. We expect that you will need to consult each other in order to understand, or better understand, the material, and may need assistance. Seeking and giving such assistance is encouraged.
+The _first four_ {{% resource_link 8868d703-2376-37df-79cc-1498d303c799 "assignments" %}} _are to be done individually_ and are intended to help you learn and practice the mechanics of the course material. By this, we mean the work you turn in must be your own, as opposed to copied from another. This does not mean you have to do individual assignments in isolation. We expect that you will need to consult each other in order to understand, or better understand, the material, and may need assistance. Seeking and giving such assistance is encouraged.
 
 Each team should split itself into two groups for the purposes of writing-up the group assignments, though you will likely meet as an entire team to discuss the case or other material the assignment is based on. Only one copy of each assignment will need to be turned in for each group. All group members whose names are on the assignment will receive the same grade. We leave it to each group to control (or allocate) free-ridership.
 
 If you are unsure whether some particular form of interaction is proper under these rules please consult your professor and/or T.A. for clarification.
 
-Regrade Policy
---------------
+## Regrade Policy
 
 If you believe an error has been made in grading your homework or exam, you may request a regrade by doing the following: Write a brief note to your T.A. explaining why you think there is an error and submit both the note and the entire assignment or exam to which it pertains. All regrade requests must occur within seven (7) calendar days of the day graded material is returned to the class. We reserve the right to regrade the entire contents of any submitted assignment or exam.
 
-Conduct
--------
+## Conduct
 
 Professional conduct is built upon the idea of mutual respect. Such conduct entails (but is not necessarily limited to):
 
-*   **Attending the class.** Core classes are required for a reason, and each class benefits from the attendance and participation of all students. Your grade for participation will be affected by absences. You should sit in the appropriate seat and display a legible name card at all times.
-*   **Arriving on time.** Late arrivals are disruptive to both lectures and class discussion, and show disrespect to those who are on time. Class starts at 5 minutes after the half hour.
-*   **Minimizing disruptions.** All cell phones and pagers should be turned off during class. You should not leave and re-enter the class. You should avoid engaging in side conversations after class has begun.
-*   **Focusing on the class.** While you may take notes on laptops, do not use laptop computers or hand-held devices for other tasks while in class. Activities such as net surfing, day trading, and answering email are very impolite and disruptive both to neighbors and the class.
-*   **Being prepared for class**. You should be ready to discuss any assigned readings and to answer any assigned questions for each day's class, including being ready to open a case assigned for that day.
-*   **Respect.** You should act respectfully toward all class participants.
+- **Attending the class.** Core classes are required for a reason, and each class benefits from the attendance and participation of all students. Your grade for participation will be affected by absences. You should sit in the appropriate seat and display a legible name card at all times.
+- **Arriving on time.** Late arrivals are disruptive to both lectures and class discussion, and show disrespect to those who are on time. Class starts at 5 minutes after the half hour.
+- **Minimizing disruptions.** All cell phones and pagers should be turned off during class. You should not leave and re-enter the class. You should avoid engaging in side conversations after class has begun.
+- **Focusing on the class.** While you may take notes on laptops, do not use laptop computers or hand-held devices for other tasks while in class. Activities such as net surfing, day trading, and answering email are very impolite and disruptive both to neighbors and the class.
+- **Being prepared for class**. You should be ready to discuss any assigned readings and to answer any assigned questions for each day's class, including being ready to open a case assigned for that day.
+- **Respect.** You should act respectfully toward all class participants.
 
 Class participation grading reflects student adherence to these principles; students gain credit for contributing valuable insights and students lose credit if they fail to adhere to any of the above guidelines. See the Sloan School web site for more information on the MBA Code of Conduct.
 
-Introduction to the Course
---------------------------
+## Introduction to the Course
 
 This course guide describes the course objective, aspects of our teaching philosophy, some administrative issues, and the daily assignments for the course. We hope it will give you a sense of our commitment to help you make the course a rewarding experience.
 
@@ -133,8 +98,7 @@ Because 15.515 is likely quite different than you might expect, this guide provi
 
 The essential elements of our strategy to help you reach the course goal are explained in the remainder of this guide: (a) the course challenges, (b) key features of the course game plan, and (c) the daily assignments.
 
-Course Challenges
------------------
+## Course Challenges
 
 The course goal is divided into five subordinate challenges that can help you organize the way you learn accounting. For example, they can help you distinguish situations where there is a correct answer from those where judgment is required. You can view the challenges as a series of questions you will ask yourself later in your career as either a preparer or user of accounting information. To reach the course goal, you must meet all five challenges and understand how they relate to each other. Acknowledgement is hereby given to Professor G. Peter Wilson for his authorship of The Five Challenges.
 
@@ -160,13 +124,16 @@ As either a user or a preparer, how do you locate the information needed to meet
 
 The first two challenges relate to procedural activities that generally have a right answer and are most often associated with accounting (e.g., bookkeeping, tax compliance, and producing managerial reports). Traditionally, introductory accounting courses have focused almost exclusively on these challenges. The judgment challenge is the most difficult to master because it is contextual. That is, you learn judgment by analyzing actual business decisions. The richer the description of the business context in the practice problems you study and the more you know about the reporting managers' character and incentives and about reporting alternatives, the more you will be preparing yourself to deal with complex judgments. The search challenge is a prerequisite for the other four challenges. For example, users of financial reports must first know where companies report their accounting policies to judge the quality of the related numbers (meet the judgment challenge) and they must know where to find the appropriate formulas to meet the computation challenge. Some of the other challenges are also interdependent. For example, users must understand how the numbers were computed to judge their usefulness.
 
-Structure of the Classes
-------------------------
+## Structure of the Classes
 
 For each session (defined broadly to include a class with the instructor, its preparation, and the related weekly T.A. session) the course guide includes a road map with the following sections:
 
-[Objectives]({{< baseurl >}}/pages/lecture-notes)  
-_[Reading Assignment]({{< baseurl >}}/pages/readings)_  
-_[Class Preparation Questions]({{< baseurl >}}/pages/lecture-notes)_  
-_[Graded Assignment]({{< baseurl >}}/pages/assignments)_  
-_[Optional Questions]({{< baseurl >}}/pages/assignments)_
+{{% resource_link ce4836d8-5e6e-a35e-652f-fa42dbbbbb74 "Objectives" %}}
+
+{{% resource_link 3e305c25-e9b9-a0d9-8759-71456449cd62 "Reading Assignment" %}}
+
+{{% resource_link ce4836d8-5e6e-a35e-652f-fa42dbbbbb74 "Class Preparation Questions" %}}
+
+{{% resource_link 8868d703-2376-37df-79cc-1498d303c799 "Graded Assignment" %}}
+
+{{% resource_link 8868d703-2376-37df-79cc-1498d303c799 "Optional Questions" %}}
