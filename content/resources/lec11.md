@@ -5,6 +5,7 @@ file: /courses/15-515-financial-accounting-fall-2003/39f8877d7955b1424b6b4c0e12a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

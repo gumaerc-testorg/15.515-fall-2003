@@ -5,6 +5,7 @@ file: /courses/15-515-financial-accounting-fall-2003/298cd5618a2b90d02d8159e1dfd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec13.pdf
 uid: 298cd561-8a2b-90d0-2d81-59e1dfd2bfb7
 ---
 Long-term Debt and Bonds.
-

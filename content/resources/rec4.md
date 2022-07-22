@@ -5,6 +5,7 @@ file: /courses/15-515-financial-accounting-fall-2003/dbafe71b0486f9b2f6c60aa70a3
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec4.pdf
 uid: dbafe71b-0486-f9b2-f6c6-0aa70a3a71ba
 ---
 Overview of Accounting for Long Lived Assets.
-

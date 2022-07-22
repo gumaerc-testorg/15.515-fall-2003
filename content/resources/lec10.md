@@ -5,6 +5,7 @@ file: /courses/15-515-financial-accounting-fall-2003/31bb3401eb780a9507891814d7b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec10.pdf
 uid: 31bb3401-eb78-0a95-0789-1814d7b39a45
 ---
 Accounting for Income Taxes.
-

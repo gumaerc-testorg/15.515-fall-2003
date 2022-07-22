@@ -5,6 +5,7 @@ file: /courses/15-515-financial-accounting-fall-2003/9426da902857d5345807853134a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2.pdf
 uid: 9426da90-2857-d534-5807-853134acdfd0
 ---
 Balance Sheet, Accruals, and Income Statement.
-
