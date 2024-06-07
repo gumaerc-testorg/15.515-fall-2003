@@ -2,6 +2,7 @@
 content_type: resource
 description: Accounting for Income Taxes.
 file: /courses/15-515-financial-accounting-fall-2003/31bb3401eb780a9507891814d7b39a45_lec10.pdf
+file_size: 213807
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
