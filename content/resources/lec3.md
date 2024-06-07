@@ -2,6 +2,7 @@
 content_type: resource
 description: Analysis of Intel?s Annual Report.
 file: /courses/15-515-financial-accounting-fall-2003/506cf1d291bc02e916441f09edeafe12_lec3.pdf
+file_size: 76449
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-515-financial-accounting-fall-2003/aac3fda6bf055031e0cb527aa138c492_lec3_intel_questions.pdf
+file_size: 11654
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

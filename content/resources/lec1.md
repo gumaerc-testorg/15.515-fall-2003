@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory Lecture
 file: /courses/15-515-financial-accounting-fall-2003/a479b1f740bf2ea59ca772614cc872d5_lec1.pdf
+file_size: 365565
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

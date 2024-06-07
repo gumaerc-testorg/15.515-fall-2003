@@ -2,6 +2,7 @@
 content_type: resource
 description: Accounting for Long-lived Assets.
 file: /courses/15-515-financial-accounting-fall-2003/c14a0767af3d7544d85e4b20eb6be1bb_lec7.pdf
+file_size: 92379
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

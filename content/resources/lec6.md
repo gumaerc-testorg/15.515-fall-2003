@@ -2,6 +2,7 @@
 content_type: resource
 description: Accounting for Inventory and Inventory Turnover by Industry.
 file: /courses/15-515-financial-accounting-fall-2003/dee824c2cf0e555c8869dcf3205564b0_lec6.pdf
+file_size: 197088
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
