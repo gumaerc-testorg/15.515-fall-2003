@@ -3,6 +3,7 @@ content_type: resource
 description: 'Principles of financial accounting measurement: Quick Review; Problems
   and Questions.'
 file: /courses/15-515-financial-accounting-fall-2003/1fa2d4ba20f072d3bcf3a1e39b5fc4ef_rec2.pdf
+file_size: 70036
 file_type: application/pdf
 learning_resource_types:
 - Recitations

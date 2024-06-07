@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-515-financial-accounting-fall-2003/29c4140c9adb7c62dc24403f93ac3650_lec15_leases_problem.pdf
+file_size: 16772
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

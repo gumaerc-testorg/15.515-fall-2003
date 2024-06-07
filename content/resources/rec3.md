@@ -2,6 +2,7 @@
 content_type: resource
 description: Review of Revenue Recognition, A/R Concepts and Inventory.
 file: /courses/15-515-financial-accounting-fall-2003/90ecb6fa8b832181e4544cbaaa2af87b_rec3.pdf
+file_size: 126431
 file_type: application/pdf
 learning_resource_types:
 - Recitations

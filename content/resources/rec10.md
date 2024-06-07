@@ -4,6 +4,7 @@ description: Review of Shareholders? Equity, Review of the three accounting meth
   for investing in the stock of other companies, Overview Purchase Method and Sample
   Problems.
 file: /courses/15-515-financial-accounting-fall-2003/ee0238be14266847fad3692dc197a411_rec10.pdf
+file_size: 79331
 file_type: application/pdf
 learning_resource_types:
 - Recitations
