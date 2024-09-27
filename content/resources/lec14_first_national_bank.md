@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-515-financial-accounting-fall-2003/1e533ea50ad64831e993912d3abce395_lec14_first_national_bank.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/1e533ea50ad64831e993912d3abce395_lec14_first_national_bank.pdf
 file_size: 88394
 file_type: application/pdf
 learning_resource_types:

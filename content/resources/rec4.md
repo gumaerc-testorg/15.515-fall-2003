@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overview of Accounting for Long Lived Assets.
-file: /courses/15-515-financial-accounting-fall-2003/dbafe71b0486f9b2f6c60aa70a3a71ba_rec4.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/dbafe71b0486f9b2f6c60aa70a3a71ba_rec4.pdf
 file_size: 87096
 file_type: application/pdf
 learning_resource_types:
