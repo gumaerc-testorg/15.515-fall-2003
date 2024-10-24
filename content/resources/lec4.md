@@ -5,7 +5,7 @@ description: 'Revenue Recognition,
   Accounts Receivable, and
 
   Deferred Revenue.'
-file: /courses/15-515-financial-accounting-fall-2003/485b11fcec455af0584368c6ff5e83e8_lec4.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/485b11fcec455af0584368c6ff5e83e8_lec4.pdf
 file_size: 219858
 file_type: application/pdf
 learning_resource_types:
