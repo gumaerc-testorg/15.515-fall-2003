@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-515-financial-accounting-fall-2003/bebafa8267a8720cc2b58f3680cb34a2_lec15.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/bebafa8267a8720cc2b58f3680cb34a2_lec15.pdf
 file_size: 182655
 file_type: application/pdf
 learning_resource_types:

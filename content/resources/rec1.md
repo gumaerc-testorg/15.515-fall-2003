@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Administrative items; Quick Review of Basic Accounting Concepts; Problem
   Set # 1: New England Bicycle Security Co.'
-file: /courses/15-515-financial-accounting-fall-2003/e1e84fbac759751cc229a93a58219b88_rec1.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/e1e84fbac759751cc229a93a58219b88_rec1.pdf
 file_size: 50446
 file_type: application/pdf
 learning_resource_types:
