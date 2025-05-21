@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/e0c1a3a700027e2dc2a14ac7ae4e38f3_lec12_frequent_fliers.pdf
+file: /courses/15-515-financial-accounting-fall-2003/e0c1a3a700027e2dc2a14ac7ae4e38f3_lec12_frequent_fliers.pdf
 file_size: 11230
 file_type: application/pdf
 learning_resource_types:

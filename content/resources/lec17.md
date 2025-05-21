@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Investments and Acquisitions.
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/38c2387a4084f7d5ae6bfda8b83e80ba_lec17.pdf
+file: /courses/15-515-financial-accounting-fall-2003/38c2387a4084f7d5ae6bfda8b83e80ba_lec17.pdf
 file_size: 188595
 file_type: application/pdf
 learning_resource_types:

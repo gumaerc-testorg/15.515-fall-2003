@@ -2,7 +2,7 @@
 content_type: resource
 description: Review of Key Concepts, Problems, Checklist and Famous Last Words for
   Midterm.
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/3649947a5c2d86775d6beb76c885c7b8_rec5midterm_review.pdf
+file: /courses/15-515-financial-accounting-fall-2003/3649947a5c2d86775d6beb76c885c7b8_rec5midterm_review.pdf
 file_size: 180351
 file_type: application/pdf
 learning_resource_types:
