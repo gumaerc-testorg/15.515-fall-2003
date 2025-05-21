@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Balance Sheet, Accruals, and Income Statement.
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/9426da902857d5345807853134acdfd0_lec2.pdf
+file: /courses/15-515-financial-accounting-fall-2003/9426da902857d5345807853134acdfd0_lec2.pdf
 file_size: 122734
 file_type: application/pdf
 learning_resource_types:

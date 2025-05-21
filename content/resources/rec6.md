@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of taxes.
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/fceccf4f69d7ae6e7a3f135930e44e30_rec6.pdf
+file: /courses/15-515-financial-accounting-fall-2003/fceccf4f69d7ae6e7a3f135930e44e30_rec6.pdf
 file_size: 137476
 file_type: application/pdf
 learning_resource_types:

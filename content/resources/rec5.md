@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SCF Checklist, SCF Examples and Other Business.
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/6c9912039553320b81fd776f36c65464_rec5.pdf
+file: /courses/15-515-financial-accounting-fall-2003/6c9912039553320b81fd776f36c65464_rec5.pdf
 file_size: 125436
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/90e7fb888389dbc3a74b971aad969ddf_lec9_note_on_cfs.pdf
+file: /courses/15-515-financial-accounting-fall-2003/90e7fb888389dbc3a74b971aad969ddf_lec9_note_on_cfs.pdf
 file_size: 108596
 file_type: application/pdf
 learning_resource_types:
