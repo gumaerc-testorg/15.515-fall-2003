@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/cd02dc9ba370397a59413596b42c5140_lec15_lease_spreadsheet.xls
+file: /courses/15-515-financial-accounting-fall-2003/cd02dc9ba370397a59413596b42c5140_lec15_lease_spreadsheet.xls
 file_size: 18944
 file_type: application/msword
 learning_resource_types:

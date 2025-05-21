@@ -2,7 +2,7 @@
 content_type: resource
 description: Terminology, Criteria for Lease Capitalization, Balance Sheet Equation
   Effects.
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/6abd16f25422f88b75bf19209e628e55_rec9.pdf
+file: /courses/15-515-financial-accounting-fall-2003/6abd16f25422f88b75bf19209e628e55_rec9.pdf
 file_size: 77153
 file_type: application/pdf
 learning_resource_types:

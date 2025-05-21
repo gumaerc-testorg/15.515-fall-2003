@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Long-Term Debt (Bonds).
-file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/d6ebdf25f668cdd9e4f6294ae7951b8e_rec8.pdf
+file: /courses/15-515-financial-accounting-fall-2003/d6ebdf25f668cdd9e4f6294ae7951b8e_rec8.pdf
 file_size: 88313
 file_type: application/pdf
 learning_resource_types:
