@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shareholder's Equity, Contributed Capital, Terminologies related to Stock.
-file: /courses/15-515-financial-accounting-fall-2003/02da68d95d75db31f74743e14bcda724_lec16.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/02da68d95d75db31f74743e14bcda724_lec16.pdf
 file_size: 57471
 file_type: application/pdf
 learning_resource_types:
