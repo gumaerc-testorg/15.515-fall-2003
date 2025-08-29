@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-515-financial-accounting-fall-2003/7e963461c192c0edb26b298e6b28afdb_lec8_delta_pam_am.pdf
+file: /ol-ocw-studio-app/courses/15-515-financial-accounting-fall-2003/7e963461c192c0edb26b298e6b28afdb_lec8_delta_pam_am.pdf
 file_size: 64828
 file_type: application/pdf
 learning_resource_types:
