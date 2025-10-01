@@ -14,7 +14,7 @@ This section of the session road map below specifies the learning objectives you
 
 ## Class Preparation Questions
 
-As these problems are related to the class discussion and often will be used as the basis of class discussion, they should receive your utmost attention. You may find it valuable to discuss these with your group members before class. Some questions refer to the Intel 2002 Annual Report, which is available for download from the Intel Web site. ([PDF](https://www.intel.cn/content/dam/doc/report/history-2002-annual-report.pdf)){{< sup "#" >}}
+As these problems are related to the class discussion and often will be used as the basis of class discussion, they should receive your utmost attention. You may find it valuable to discuss these with your group members before class. Some questions refer to the Intel 2002 Annual Report, which is available for download from the Intel Web site. ({{% resource_link "0952b76e-a5c0-4113-a3b1-0855d8f54a0c" "PDF" %}}){{< sup "#" >}}
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
